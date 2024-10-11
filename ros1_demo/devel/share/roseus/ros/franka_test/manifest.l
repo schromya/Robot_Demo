@@ -1,0 +1,1 @@
+/workspace/devel/.private/franka_test/share/roseus/ros/franka_test/manifest.l

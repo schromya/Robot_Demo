@@ -1,0 +1,2 @@
+float64 left_power
+float64 right_power

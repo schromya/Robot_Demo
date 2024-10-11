@@ -1,0 +1,1 @@
+/workspace/devel/.private/franka_test/share/franka_test/cmake/franka_test-msg-paths.cmake

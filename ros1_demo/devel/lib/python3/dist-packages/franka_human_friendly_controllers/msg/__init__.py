@@ -1,0 +1,1 @@
+/workspace/devel/.private/franka_human_friendly_controllers/lib/python3/dist-packages/franka_human_friendly_controllers/msg/__init__.py

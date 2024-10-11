@@ -1,0 +1,1 @@
+/workspace/devel/.private/franka_human_friendly_controllers/share/gennodejs/ros/franka_human_friendly_controllers/_index.js

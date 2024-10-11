@@ -1,0 +1,1 @@
+/workspace/devel/.private/franka_human_friendly_controllers/share/common-lisp/ros/franka_human_friendly_controllers/msg/franka_human_friendly_controllers-msg.asd
